@@ -1,0 +1,9 @@
+{
+  "java.dependency.syncWithFolderExplorer": false,
+  "java.dependency.packagePresentation": "flat",
+  "java.project.referencedLibaries": [
+    "lib/stdlib-package.jar",
+    "lib/algs4.jar"
+  ],
+  "objectscript.conn.active": false
+}
